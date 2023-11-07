@@ -32,11 +32,20 @@ main {
     padding-inline: 1.5rem;
 }
 
+.descricao {
+    margin-bottom: 2.5rem;
+}
+
 .descricao h1 {
     color: var(--gray-800);
     margin-bottom: 1rem;
     font-size: 1.5625rem;
 }
 
-/* nome da cor, rgb, rgba, hex */
+.descricao p {
+    font-size: 0.8125;
+    color: var(--gray-600);
+    margin-bottom: 2.5rem;
+}
 
+/* nome da cor, rgb, rgba, hex */
